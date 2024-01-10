@@ -63,7 +63,7 @@
 
 ## Установка
 
-[git](https://github.com/artem-75/Data-preparation-resume-analysis-)
+[git](https://github.com/ArtemKornev0/Data-preparation-resume-analysis-)
 
 Нажать зеленую кнопку: <> Code, далее выбрать нужное (клонировать репозиторий, открыть на ПК или скачать его архив)
 
@@ -73,7 +73,7 @@
 
 ## Авторы
 
-[Артем Корнев](https://t.me/@Artem1975)
+[Артем Корнев](https://t.me/@ArtemKornev0)
 
 ## Выводы
 
